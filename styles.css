@@ -15,7 +15,7 @@ nav {
     position: relative;
     float: right;
     right: 10%;
-    margin-top: 60px;
+    margin-top: 90px;
 }
 
 nav a {
@@ -27,8 +27,9 @@ nav a {
 
 .logo-land {
     position: relative;
-    margin-top: 10%;
-    margin-left: 10%;
+    margin-top: 3%;
+    margin-left: 6%;
+    margin-bottom: 400px;
 }
 
 .title-h1 {
@@ -36,22 +37,24 @@ nav a {
     color: #ffff;
     font-weight: bold;
     font-size: 60px;
-    margin-left: 10%;
+    margin-left: 11%;
 }
 
 .motto {
     position: relative;
     color: #ffff;
     font-weight: 400;
-    margin-left: 10%;
+    margin-left: 4%;
 }
 
 button {
-    position: relative;
+    position: absolute;
     color: #ffff;
     font-weight: bold;
     background-color: red;;
     float: right;
+    right: 0px;
+    top: 50%;
     border: none;
     padding: 10px;
     width: 300px;
