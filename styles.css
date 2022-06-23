@@ -62,3 +62,18 @@ button {
     border-radius: 40px;
 }
 
+header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+
+
+.mission-statement {
+    text-align: center;
+    left: 50%;
+    margin: 0px auto 80px;
+    padding: 0 20%;
+}
