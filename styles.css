@@ -77,3 +77,39 @@ header {
     margin: 0px auto 80px;
     padding: 0 20%;
 }
+
+.stories {
+    justify-content: space-evenly;
+}
+
+
+h4 {
+    display: inline-block;
+    margin: 70px 30px;
+}
+
+.volunteer {
+    margin: 170px;
+}
+
+.logo-footer {
+    margin-bottom: 50px;
+}
+
+.links {
+    justify-content: space-evenly;
+}
+
+.icon {
+    margin: 0% 2%;
+    position: relative;
+    padding-left: 130px;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.about-description {
+    margin: 0 10%;
+}
